@@ -1,0 +1,226 @@
+@media all and (max-width:1050px){
+	.about-left-area {
+		width: 40%;
+	}
+	.about-right-area {
+		width: 56%;
+	}
+	.about-right-area h3{
+		padding-top:2px;
+		padding-bottom:12px !important;
+	}
+	.about-right-area img {
+		margin-bottom: 10px;
+	}
+	.gallery-area {
+		padding: 15px 0px;
+	}
+	.start-button {
+		margin-bottom: 34px;
+	}
+}
+@media all and (max-width:916px){
+	.about-left-area {
+		width:60%;
+		float:none;
+		margin:0 auto;
+	}
+	.about-area{
+		padding:40px 0px;
+	}
+	.about-right-area {
+		width:100%;
+		text-align:center;
+		padding-left:0px;
+	}
+	
+	.about-right-area h3 {
+		padding-top:55px;
+	}
+	.about-right-area img {
+		width: 16%;
+	}
+	.about-right-area .about-top-text p {
+		width: 72%;
+		margin: 20px auto;
+	}
+	.about-right-area .about-bottom-text p {
+		width: 80%;
+		margin:0 auto;
+	}
+	.single-image{
+		width:48%;
+	}
+	.single-image:nth-child(2){
+		margin-right:0;
+	}
+	.single-image:nth-child(3){
+		margin-right:2%;
+		margin-left:0px;
+	}
+	.single-image:nth-child(4){
+		margin-right:0px;
+		margin-left:2%;
+	}
+	.single-image:nth-child(5){
+		margin-right:2%;
+		margin-left:0px;
+	}
+	.start-button {
+		margin-top: 40px;
+		margin-bottom: 43px;
+	}
+	.our-project-area {
+		padding: 50px 0px;
+	}
+	.contract-area {
+		padding: 42px 0px;
+	}
+	.contract-now ul {
+		margin-top: 15px;
+	}
+	
+
+}
+@media all and (max-width:850px){
+	.header-bottom-logo {
+		width:100%;
+		float:none;
+		text-align:center;
+	}
+	.header-bottom-logo img {
+		width: 15%;
+	}
+	.heade-bottom-menu {
+		width: 100%;
+	}
+	.heade-bottom-menu ul{
+		float:none;
+		text-align:center;
+		
+	}
+	.heade-bottom-menu ul li{
+		float:none;
+		display:inline;
+	}
+	.heade-bottom-menu ul li a{
+		display:inline-block;
+	}
+	.about-area{
+		padding:0px;
+	}
+	.gallery-area {
+		padding: 50px 0px;
+	}
+	.about-area{
+		padding:60px 0px;
+	}
+	
+}
+@media all and (max-width:768px){
+	.header-top-left{
+		width: 70%;
+	}
+	.header-top-right{
+		width:30%;
+	}
+	.banner-text {
+		width: 60%;
+	}
+	.banner-text p {
+		width: 63%;
+	}
+	.gallery-area {
+		padding: 0px 0px;
+	}
+	
+}
+@media all and (max-width:660px){
+	.heade-bottom-menu ul li{
+		display:block;
+	}
+	
+	.heade-bottom-menu ul li a {
+		padding: 21px 4px;
+	}
+	.single-service {
+		width: 60%;
+		text-align: center;
+		float:none;
+		margin:30px auto;
+	}
+	.about-right-area .about-bottom-text p {
+		width:71%;
+		font-size:14px;
+	}
+	.about-right-area .about-bottom-text p {
+		width: 80%;
+		font-size: 14px;
+	}
+	.services-area {
+		padding: 30px 0px;
+
+	}
+	.gallery-area {
+		padding:0px;
+	}
+	.gallary-title img{
+		margin-bottom:30px;
+	}
+	.gallary-title h1 {
+		padding-bottom: 17px;
+	}
+	.single-image {
+		width:80%;
+		margin:40px auto !important;
+		float: none;
+	}
+	.our-project-area h4 {
+		font-size: 18px;
+	}
+	.contract-now ul li {
+		margin-left: 9px;
+	}
+	.contract-now ul li a {
+		width: 40px;
+		height: 40px;
+	}
+	.footer-area p{
+		font-size:13px;
+	}
+	.service-title h1{
+		margin-top:30px;
+	}
+	.mobile-menu{
+		display:block;
+	}
+	.heade-bottom-menu ul{
+		display:none;
+	}
+	.header-bottom-logo {
+		text-align:left;
+	}
+
+}
+@media all and (min-width:660px){
+	.heade-bottom-menu ul{
+		display:block;
+	}
+}
+@media all and (max-width:555px){
+	.our-project-area h4 span {
+		font-size:18px;
+	}
+	.banner-text {
+		width:100%;
+		text-align:center;
+	}
+	.banner-text p {
+		width: 63%;
+		margin: 0 auto;
+		margin-bottom: 34px;
+	}
+	.banner-area {
+		margin-top: 15px;
+	}
+}
